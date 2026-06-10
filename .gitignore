@@ -1,0 +1,10 @@
+# Build artifacts
+/moltui.exe
+*.exe
+
+# Recordings produced by the viewer
+*_recording_*.gif
+
+# OS / editor cruft
+.DS_Store
+*.swp

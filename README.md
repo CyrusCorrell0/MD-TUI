@@ -5,6 +5,8 @@ in your terminal. Loads multi-frame PDB trajectories and renders them as true-co
 half-block "pixel" art with playback, rotation, zoom, a secondary-structure cartoon
 mode, and animated-GIF recording, all on a fully black background.
 
+![MD-TUI rendering a 138-atom peptide in BallStick mode](assets/screenshot.png)
+
 ## Requirements
 
 - Go 1.22+
